@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: OPERATIONS & SUPPLY CHAIN
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 3,426 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 2.2 LPA – 3.2 LPA
+  Junior (1-3 yrs): 3.0 LPA – 4.5 LPA
+  Mid-level (3-6 yrs): 4.5 LPA – 7.0 LPA
+  Senior (6-10 yrs): 7.0 LPA – 10.0 LPA
+  Lead/Principal (10+ yrs): 13.5 LPA – 20.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Management — mentioned in 14% of postings
+   2. Procurement — mentioned in 10% of postings
+   3. Operations — mentioned in 9% of postings
+   4. Sales — mentioned in 9% of postings
+   5. Supply Chain — mentioned in 8% of postings
+   6. Assistance — mentioned in 7% of postings
+   7. Sap — mentioned in 7% of postings
+   8. Project Management — mentioned in 6% of postings
+   9. Logistics — mentioned in 6% of postings
+  10. Operations Management — mentioned in 5% of postings
+  11. Vendor Management — mentioned in 5% of postings
+  12. Customer Service — mentioned in 5% of postings
+  13. Purchase — mentioned in 4% of postings
+  14. Analytical — mentioned in 4% of postings
+  15. Supply Chain Management — mentioned in 4% of postings
+  16. Sourcing — mentioned in 4% of postings
+  17. Finance — mentioned in 4% of postings
+  18. Team Management — mentioned in 4% of postings
+  19. Logistics Management — mentioned in 4% of postings
+  20. Inventory Management — mentioned in 4% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 532 openings
+  - Mumbai: 264 openings
+  - Pune: 251 openings
+  - Hyderabad: 247 openings
+  - Gurugram: 203 openings
+  - Chennai: 195 openings
+  - Noida: 127 openings
+  - Ahmedabad: 94 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Accenture: 152 postings
+  - Bajaj Finance: 141 postings
+  - IDESLABS PRIVATE LIMITED: 57 postings
+  - Deloitte Consulting: 48 postings
+  - HR Innovation Group: 46 postings
+  - Mahindra & Mahindra Limited.: 39 postings
+  - KPMG India: 38 postings
+  - Oji India Packaging: 37 postings
+  - PRO Hr Complete Solutions: 34 postings
+  - R1 RCM: 31 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Assistant Manager
+  - Executive Assistant
+  - Operations Manager
+  - Operations Executive
+  - SAP Yard logistics Professional
+  - Deputy Manager
+  - Logistics Executive
+  - Deputy Manager - Lifestyle Finance
+  - Order To Cash Operations Analyst
+  - Executive Assistant To Chief Executive Officer
+  - Assistant Manager ( HR )
+  - Assistant Manager HR & Admin

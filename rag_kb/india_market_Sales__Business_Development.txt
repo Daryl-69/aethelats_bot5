@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: SALES & BUSINESS DEVELOPMENT
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 9,386 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 2.0 LPA – 3.5 LPA
+  Junior (1-3 yrs): 2.5 LPA – 4.5 LPA
+  Mid-level (3-6 yrs): 4.8 LPA – 7.5 LPA
+  Senior (6-10 yrs): 8.0 LPA – 12.0 LPA
+  Lead/Principal (10+ yrs): 10.0 LPA – 17.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Sales — mentioned in 50% of postings
+   2. Business Development — mentioned in 20% of postings
+   3. B2B Sales — mentioned in 11% of postings
+   4. Channel Sales — mentioned in 11% of postings
+   5. Lead Generation — mentioned in 10% of postings
+   6. Field Sales — mentioned in 10% of postings
+   7. Management — mentioned in 10% of postings
+   8. Marketing — mentioned in 10% of postings
+   9. Sales Management — mentioned in 7% of postings
+  10. Communication Skills — mentioned in 7% of postings
+  11. Relationship Management — mentioned in 7% of postings
+  12. Direct Sales — mentioned in 7% of postings
+  13. Relationship — mentioned in 6% of postings
+  14. B2C Sales — mentioned in 6% of postings
+  15. Inside Sales — mentioned in 6% of postings
+  16. Team Handling — mentioned in 6% of postings
+  17. Cold Calling — mentioned in 5% of postings
+  18. Development — mentioned in 5% of postings
+  19. Sales Executive Activities — mentioned in 5% of postings
+  20. Customer Service — mentioned in 5% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 803 openings
+  - Hyderabad: 470 openings
+  - Gurugram: 433 openings
+  - Chennai: 421 openings
+  - Pune: 391 openings
+  - Mumbai: 332 openings
+  - Noida: 311 openings
+  - Ahmedabad: 294 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Kotak Mahindra Bank: 427 postings
+  - PRO Hr Complete Solutions: 361 postings
+  - Brightfuture Consultant: 325 postings
+  - IndiaMART: 185 postings
+  - Tata Capital: 167 postings
+  - Policybazaar: 152 postings
+  - Axis Bank: 85 postings
+  - Bajaj Allianz General Insurance: 84 postings
+  - Catholic Syrian Bank (CSB Bank): 79 postings
+  - NoBroker: 79 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Sales Executive
+  - Business Development Executive
+  - Business Development Manager
+  - Sales Manager
+  - Relationship Manager
+  - Area Sales Manager
+  - Account Executive
+  - Sales Officer Home Loan
+  - Field Sales Executive
+  - Relationship Manager - Banca Channel
+  - Inside Sales Executive
+  - International Sales Executive

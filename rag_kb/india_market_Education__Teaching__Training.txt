@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: EDUCATION / TEACHING / TRAINING
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 1,579 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 2.2 LPA – 3.8 LPA
+  Junior (1-3 yrs): 2.2 LPA – 4.0 LPA
+  Mid-level (3-6 yrs): 4.0 LPA – 7.0 LPA
+  Senior (6-10 yrs): 8.0 LPA – 15.0 LPA
+  Lead/Principal (10+ yrs): 9.5 LPA – 13.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Teaching — mentioned in 34% of postings
+   2. Training — mentioned in 19% of postings
+   3. Bed — mentioned in 15% of postings
+   4. Mathematics — mentioned in 12% of postings
+   5. English — mentioned in 10% of postings
+   6. Tgt — mentioned in 9% of postings
+   7. Education — mentioned in 8% of postings
+   8. Tutoring — mentioned in 8% of postings
+   9. Communication Skills — mentioned in 6% of postings
+  10. Teaching English — mentioned in 6% of postings
+  11. Educational Sales — mentioned in 6% of postings
+  12. Admission Counselling — mentioned in 6% of postings
+  13. Research — mentioned in 6% of postings
+  14. Counselling — mentioned in 6% of postings
+  15. Education Counseling — mentioned in 5% of postings
+  16. Process Training — mentioned in 5% of postings
+  17. Biology — mentioned in 5% of postings
+  18. Academics — mentioned in 5% of postings
+  19. Presentation Skills — mentioned in 4% of postings
+  20. Artificial Intelligence — mentioned in 4% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 174 openings
+  - Hyderabad: 105 openings
+  - Remote: 94 openings
+  - Pune: 88 openings
+  - Noida: 79 openings
+  - Gurugram: 74 openings
+  - Chennai: 60 openings
+  - Mumbai: 52 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Mdn Edify Education: 69 postings
+  - PRO Hr Complete Solutions: 66 postings
+  - Dataannotation: 66 postings
+  - JAHANGEER EDUTECH PVT LTD: 43 postings
+  - The Himalayan School: 34 postings
+  - K12 Techno Services: 32 postings
+  - Maps Hr Solution: 24 postings
+  - PlanetSpark: 18 postings
+  - Swami Vivekanand Subharti University (SVSU): 17 postings
+  - Jha Home Tuition: 16 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Education Counsellor
+  - Academic Counsellor
+  - Biology ( NEET Faculty )
+  - Education Counsellor/Tele sales
+  - Assistant Professor
+  - Instructional Designer
+  - Teacher
+  - Sales Trainer
+  - Pre Primary Teacher
+  - Trainer
+  - English Language and Corporate Trainer (Hourly-Paid)
+  - Process Trainer

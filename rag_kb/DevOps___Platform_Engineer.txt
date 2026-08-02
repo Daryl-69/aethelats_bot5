@@ -1,0 +1,14 @@
+CAREER PATH: DevOps / Platform Engineer
+============================================================
+
+Career levels: Junior DevOps (0-2 yrs) → DevOps Engineer (2-5 yrs) → Senior / SRE (5+ yrs)
+
+Core skills required: Linux, Docker, Kubernetes, CI/CD, Cloud (AWS/GCP/Azure), Terraform
+Entry-level skills: Linux command line, Docker basics, Git, Basic scripting (Bash/Python), One cloud provider basics
+Mid-level skills: Kubernetes, Terraform, GitHub Actions or Jenkins, Monitoring (Prometheus, Grafana), Helm
+Senior-level skills: Multi-cloud architecture, SRE practices (SLO/SLA/SLI), Cost optimization, Security (IAM, secrets management)
+
+Salary benchmarks (India, CTC):
+  - Junior: 6-14 LPA
+  - Mid: 14-35 LPA
+  - Senior SRE: 30-75 LPA

@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: DEVOPS / CLOUD / SRE
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 1,179 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 2.5 LPA – 3.5 LPA
+  Junior (1-3 yrs): 5.0 LPA – 7.0 LPA
+  Mid-level (3-6 yrs): 10.0 LPA – 16.0 LPA
+  Senior (6-10 yrs): 16.0 LPA – 25.0 LPA
+  Lead/Principal (10+ yrs): 23.8 LPA – 32.5 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Devops — mentioned in 34% of postings
+   2. Kubernetes — mentioned in 32% of postings
+   3. Python — mentioned in 23% of postings
+   4. Continuous Integration — mentioned in 21% of postings
+   5. Ci/Cd — mentioned in 20% of postings
+   6. Aws — mentioned in 19% of postings
+   7. Terraform — mentioned in 18% of postings
+   8. Docker — mentioned in 16% of postings
+   9. Automation — mentioned in 12% of postings
+  10. Gcp — mentioned in 12% of postings
+  11. Linux — mentioned in 12% of postings
+  12. Jenkins — mentioned in 11% of postings
+  13. Microsoft Azure — mentioned in 10% of postings
+  14. Networking — mentioned in 10% of postings
+  15. Ansible — mentioned in 9% of postings
+  16. Github — mentioned in 9% of postings
+  17. Cloud — mentioned in 9% of postings
+  18. Azure Devops — mentioned in 9% of postings
+  19. Sql — mentioned in 7% of postings
+  20. Cd — mentioned in 6% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 290 openings
+  - Hyderabad: 130 openings
+  - Pune: 109 openings
+  - Chennai: 70 openings
+  - Hybrid - Bengaluru: 55 openings
+  - Gurugram: 54 openings
+  - Remote: 35 openings
+  - Hybrid - Pune: 35 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Accenture: 48 postings
+  - IDESLABS PRIVATE LIMITED: 45 postings
+  - Wipro: 36 postings
+  - Purview India Consulting And  Services  Llp: 29 postings
+  - Krazy Mantra HR Solutions Pvt. Ltd: 27 postings
+  - Suzva Software Technologies: 21 postings
+  - Capgemini: 20 postings
+  - Talent21: 17 postings
+  - Infosys: 17 postings
+  - Vision Beyond Resources India Private Limited: 14 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Devops Engineer
+  - DevOps Engineer
+  - Site Reliability Engineer
+  - Azure Devops Engineer
+  - Senior Devops Engineer
+  - Senior DevOps Engineer
+  - Cloud Engineer
+  - GCP Devops Engineer
+  - GCP DevOps Engineer
+  - Cloud Platform Engineer
+  - Technology Platform Engineer
+  - Senior Cloud Engineer

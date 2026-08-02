@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: CORE ENGINEERING (MECHANICAL / CIVIL / ELECTRICAL)
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 930 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 2.2 LPA – 3.0 LPA
+  Junior (1-3 yrs): 2.5 LPA – 4.0 LPA
+  Mid-level (3-6 yrs): 3.6 LPA – 6.0 LPA
+  Senior (6-10 yrs): 5.5 LPA – 7.2 LPA
+  Lead/Principal (10+ yrs): 10.0 LPA – 16.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Engineering — mentioned in 14% of postings
+   2. Civil Engineering — mentioned in 10% of postings
+   3. Maintenance — mentioned in 10% of postings
+   4. Electrical Engineering — mentioned in 9% of postings
+   5. Autocad — mentioned in 8% of postings
+   6. Mechanical Engineering — mentioned in 8% of postings
+   7. Electrical Maintenance — mentioned in 7% of postings
+   8. Mechanical — mentioned in 6% of postings
+   9. Production — mentioned in 6% of postings
+  10. Maintenance Engineering — mentioned in 6% of postings
+  11. Production Engineering — mentioned in 6% of postings
+  12. Electricals — mentioned in 6% of postings
+  13. Civil — mentioned in 5% of postings
+  14. Industrial Safety — mentioned in 5% of postings
+  15. Plc — mentioned in 5% of postings
+  16. Process Engineering — mentioned in 4% of postings
+  17. Construction — mentioned in 4% of postings
+  18. Safety — mentioned in 4% of postings
+  19. Process — mentioned in 4% of postings
+  20. Mechanical Maintenance — mentioned in 3% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Pune: 118 openings
+  - Bengaluru: 114 openings
+  - Chennai: 63 openings
+  - Hyderabad: 33 openings
+  - Vadodara: 20 openings
+  - Ahmedabad: 20 openings
+  - Gurugram: 19 openings
+  - Mumbai: 16 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - HR Innovation Group: 55 postings
+  - PRO Hr Complete Solutions: 17 postings
+  - Krazy Mantra HR Solutions Pvt. Ltd: 11 postings
+  - Andt Equipment Inspection Service: 9 postings
+  - Integrated Institute Of Facility Management (IIFM): 9 postings
+  - TAJ Consultancy: 8 postings
+  - Simulation Lab - Scientific Research and Development Center: 8 postings
+  - Aaryan Hr Solutions: 7 postings
+  - CIEL HR: 6 postings
+  - Shavish Group: 6 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Civil Engineer
+  - Electrical Engineer
+  - Mechanical Engineer
+  - Safety Officer
+  - Production Engineer
+  - Maintenance Engineer
+  - Instrumentation Engineer
+  - Structural Engineer
+  - Embedded Engineer
+  - Process Engineer
+  - Firmware Engineer
+  - Manufacturing Engineer

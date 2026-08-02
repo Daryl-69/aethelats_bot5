@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: DATA ANALYST / BUSINESS ANALYST
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 1,004 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 2.0 LPA – 3.8 LPA
+  Junior (1-3 yrs): 3.5 LPA – 6.0 LPA
+  Mid-level (3-6 yrs): 7.0 LPA – 14.0 LPA
+  Senior (6-10 yrs): 14.0 LPA – 22.0 LPA
+  Lead/Principal (10+ yrs): 16.5 LPA – 23.8 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Business Analysis — mentioned in 28% of postings
+   2. Data Analysis — mentioned in 24% of postings
+   3. Sql — mentioned in 23% of postings
+   4. Power Bi — mentioned in 20% of postings
+   5. Project Management — mentioned in 14% of postings
+   6. Python — mentioned in 13% of postings
+   7. Tableau — mentioned in 12% of postings
+   8. Business Analyst — mentioned in 10% of postings
+   9. Agile — mentioned in 8% of postings
+  10. Data Analytics — mentioned in 8% of postings
+  11. Business Intelligence — mentioned in 8% of postings
+  12. Bi — mentioned in 7% of postings
+  13. Analytical — mentioned in 7% of postings
+  14. Data Visualization — mentioned in 7% of postings
+  15. Analysis — mentioned in 7% of postings
+  16. Data — mentioned in 6% of postings
+  17. Documentation — mentioned in 6% of postings
+  18. Excel — mentioned in 6% of postings
+  19. Requirement Gathering — mentioned in 6% of postings
+  20. Data Modeling — mentioned in 5% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 191 openings
+  - Hyderabad: 122 openings
+  - Pune: 87 openings
+  - Chennai: 63 openings
+  - Mumbai: 59 openings
+  - Gurugram: 50 openings
+  - Remote: 42 openings
+  - Noida: 31 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Wipro: 34 postings
+  - IDESLABS PRIVATE LIMITED: 33 postings
+  - Accenture: 31 postings
+  - Gratitude India Manpower Consultants Pvt. Ltd.: 22 postings
+  - Cloudxtreme: 14 postings
+  - Incedo: 14 postings
+  - Krazy Mantra HR Solutions Pvt. Ltd: 13 postings
+  - S&P Global Market Intelligence: 12 postings
+  - Amazon: 10 postings
+  - ABB: 10 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Business Analyst
+  - Data Analyst
+  - Senior Business Analyst
+  - Power Bi Developer
+  - Senior Data Analyst
+  - Power BI Developer
+  - Tableau Developer
+  - Research Analyst
+  - Reporting Analyst
+  - Technical Business Analyst
+  - Business Intelligence Developer
+  - Salesforce Business Analyst

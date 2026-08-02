@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: MOBILE APP DEVELOPER
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 283 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 2.0 LPA – 4.5 LPA
+  Junior (1-3 yrs): 3.0 LPA – 6.0 LPA
+  Mid-level (3-6 yrs): 6.0 LPA – 12.0 LPA
+  Senior (6-10 yrs): 9.5 LPA – 13.0 LPA
+  Lead/Principal (10+ yrs): 20.0 LPA – 35.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Android — mentioned in 30% of postings
+   2. Ios — mentioned in 26% of postings
+   3. Development — mentioned in 25% of postings
+   4. Kotlin — mentioned in 20% of postings
+   5. Swift — mentioned in 19% of postings
+   6. React Native — mentioned in 19% of postings
+   7. Flutter — mentioned in 18% of postings
+   8. Android Application Development — mentioned in 17% of postings
+   9. Git — mentioned in 15% of postings
+  10. Mobile Application Development — mentioned in 14% of postings
+  11. Ios Development — mentioned in 13% of postings
+  12. Mvvm — mentioned in 13% of postings
+  13. Javascript — mentioned in 12% of postings
+  14. Android Studio — mentioned in 12% of postings
+  15. Java — mentioned in 11% of postings
+  16. Flutter Development — mentioned in 11% of postings
+  17. Sqlite — mentioned in 10% of postings
+  18. Swift Ui — mentioned in 9% of postings
+  19. Mobile Development — mentioned in 8% of postings
+  20. Version Control — mentioned in 8% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 45 openings
+  - Hyderabad: 28 openings
+  - Pune: 21 openings
+  - Mohali: 20 openings
+  - Chennai: 18 openings
+  - Remote: 18 openings
+  - Noida: 15 openings
+  - Hybrid - Bengaluru: 9 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Wits Innovation Lab: 13 postings
+  - Capgemini: 8 postings
+  - IDESLABS PRIVATE LIMITED: 7 postings
+  - Infosys: 5 postings
+  - D Source: 5 postings
+  - Spark Infosystems: 4 postings
+  - Accord Infosystems: 3 postings
+  - Heady Technologies Consultancy: 3 postings
+  - ti Steps: 3 postings
+  - wits inovation lab: 3 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Android Developer
+  - Flutter Developer
+  - React Native Developer
+  - iOS Developer
+  - Senior Android Developer
+  - IOS Developer
+  - Mobile Developer
+  - Senior React Native Developer
+  - Senior iOS Developer
+  - Senior Ios Developer
+  - App Developer
+  - FLUTTER DEVELOPER

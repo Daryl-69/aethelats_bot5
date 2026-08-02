@@ -1,0 +1,57 @@
+
+CAREER TRANSITION GUIDES
+=========================
+
+SERVICE COMPANY → PRODUCT COMPANY (e.g., TCS/Infosys → Flipkart/Razorpay):
+  Timeline: 6-12 months of dedicated preparation
+  Steps:
+    1. Build DSA fundamentals: Striver's sheet, 150+ LeetCode problems
+    2. Pick 1-2 strong projects (not CRUD apps — solve a real problem)
+    3. Put everything on GitHub with good READMEs
+    4. Apply via referrals first (LinkedIn outreach to employees)
+    5. Start with mid-size product companies (Juspay, BrowserStack, Freshworks) 
+       before targeting FAANG
+  Common mistake: People study DSA for 2 months and apply without projects. 
+  Companies want to see you can BUILD things, not just pass LeetCode.
+
+DEVELOPER → ML ENGINEER:
+  Timeline: 8-15 months
+  You need: Strong Python, Linear Algebra basics, Statistics, ML theory + practice
+  Steps:
+    1. Andrew Ng's ML Specialization (Coursera) — 2 months
+    2. Kaggle: complete 3 structured data competitions, aim for top 20%
+    3. Learn PyTorch: fast.ai course (practical approach)
+    4. Build 2 end-to-end projects: 
+       a) Tabular ML (prediction problem with a deployed API)
+       b) NLP or CV project
+    5. Learn MLflow for experiment tracking, Docker for deployment
+    6. Apply to companies with data science teams (not pure research labs yet)
+
+DATA ANALYST → DATA ENGINEER:
+  Timeline: 4-8 months (you already know SQL, which is 40% of the job)
+  Add: Python scripting, Apache Airflow, Spark basics, cloud storage (S3/GCS)
+  Steps:
+    1. Master Python for data: Pandas, file I/O, API calls
+    2. Build a pipeline: scrape data → store in cloud → transform with dbt → dashboard
+    3. Learn Airflow for scheduling
+    4. Get AWS/GCP Cloud Practitioner certification (free tier, ~2 months)
+
+FRESHER → FIRST JOB STRATEGY:
+  If CGPA < 7 AND from Tier-3 college:
+    - Don't apply to mass recruiters (Wipro/Infosys/TCS off-campus) first — low response rate
+    - Build 2 strong projects on GitHub with live demos
+    - Apply to 50+ startups on AngelList/Wellfound and LinkedIn
+    - Consider internship → PPO (Pre-placement offer) route
+    - Upskill certificate from Google/Meta on Coursera adds credibility
+  If CGPA > 8 AND from Tier-1/2:
+    - On-campus placements are your best bet
+    - Supplement with off-campus applications to product companies
+    - Start DSA prep in 3rd year
+
+INDIA → INTERNATIONAL (US/EU):
+  Timeline: 2-5 years
+  Route 1: FAANG India → FAANG International transfer (most common)
+  Route 2: Master's degree (MS in CS) in US/Canada/Germany
+  Route 3: Direct off-campus from India (rare, requires very strong profile)
+  For H1-B: US job market requires strong DSA + System Design + leetcode preparation
+  For EU: Germany has Blue Card, Netherlands has tech visa. Less leetcode, more practical interviews.

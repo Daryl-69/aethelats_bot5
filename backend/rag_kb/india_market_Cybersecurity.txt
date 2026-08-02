@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: CYBERSECURITY
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 631 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 2.0 LPA – 3.5 LPA
+  Junior (1-3 yrs): 4.1 LPA – 7.5 LPA
+  Mid-level (3-6 yrs): 8.0 LPA – 15.5 LPA
+  Senior (6-10 yrs): 12.0 LPA – 20.0 LPA
+  Lead/Principal (10+ yrs): 15.0 LPA – 30.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Cyber Security — mentioned in 29% of postings
+   2. Cloud Security — mentioned in 20% of postings
+   3. Information Security — mentioned in 19% of postings
+   4. Network Security — mentioned in 16% of postings
+   5. Sap Grc — mentioned in 11% of postings
+   6. Siem — mentioned in 11% of postings
+   7. Soc — mentioned in 10% of postings
+   8. Penetration Testing — mentioned in 10% of postings
+   9. Security — mentioned in 10% of postings
+  10. Owasp — mentioned in 9% of postings
+  11. Security Engineering — mentioned in 9% of postings
+  12. Risk Assessments — mentioned in 8% of postings
+  13. Security Assessment — mentioned in 8% of postings
+  14. Security Operations — mentioned in 8% of postings
+  15. Python — mentioned in 7% of postings
+  16. Gdpr — mentioned in 7% of postings
+  17. Networking — mentioned in 7% of postings
+  18. Risk Management — mentioned in 7% of postings
+  19. Security Consulting — mentioned in 6% of postings
+  20. Risk Assessment — mentioned in 6% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 185 openings
+  - Hyderabad: 65 openings
+  - Pune: 58 openings
+  - Mumbai: 37 openings
+  - Gurugram: 28 openings
+  - Chennai: 27 openings
+  - Noida: 18 openings
+  - Remote: 12 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Accenture: 124 postings
+  - IDESLABS PRIVATE LIMITED: 86 postings
+  - Wipro: 33 postings
+  - Suzva Software Technologies: 12 postings
+  - Cloudxtreme: 11 postings
+  - Krazy Mantra HR Solutions Pvt. Ltd: 10 postings
+  - IBM: 10 postings
+  - Vision Beyond Resources India Private Limited: 10 postings
+  - ATT Communication Services: 6 postings
+  - Capgemini: 6 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Security Architect
+  - Security Engineer
+  - SAP GRC Security consultant
+  - SAP GRC and Security Consultant
+  - Cyber Security Analyst - L4
+  - Security Architect - L1
+  - Cyber Security Analyst - L3
+  - Senior Security Engineer
+  - Network Security Engineer
+  - Soc Analyst
+  - Senior Soc Analyst
+  - Application Penetration Tester

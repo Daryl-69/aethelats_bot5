@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: PRODUCT MANAGER
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 1,353 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 2.1 LPA – 4.0 LPA
+  Junior (1-3 yrs): 4.2 LPA – 8.2 LPA
+  Mid-level (3-6 yrs): 7.3 LPA – 12.0 LPA
+  Senior (6-10 yrs): 10.5 LPA – 17.2 LPA
+  Lead/Principal (10+ yrs): 15.0 LPA – 25.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Project Management — mentioned in 45% of postings
+   2. Product Management — mentioned in 18% of postings
+   3. Agile — mentioned in 17% of postings
+   4. Management — mentioned in 15% of postings
+   5. Program Management — mentioned in 11% of postings
+   6. Project — mentioned in 10% of postings
+   7. Scrum — mentioned in 10% of postings
+   8. Pmp — mentioned in 9% of postings
+   9. Stakeholder Management — mentioned in 7% of postings
+  10. Risk Management — mentioned in 7% of postings
+  11. Jira — mentioned in 6% of postings
+  12. Analytical — mentioned in 6% of postings
+  13. Project Planning — mentioned in 5% of postings
+  14. Product Strategy — mentioned in 5% of postings
+  15. Business Analysis — mentioned in 5% of postings
+  16. Change Management — mentioned in 4% of postings
+  17. Agile Methodology — mentioned in 4% of postings
+  18. Computer Science — mentioned in 4% of postings
+  19. Project Execution — mentioned in 4% of postings
+  20. Python — mentioned in 3% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 314 openings
+  - Hyderabad: 172 openings
+  - Pune: 133 openings
+  - Mumbai: 86 openings
+  - Gurugram: 71 openings
+  - Chennai: 57 openings
+  - Noida: 42 openings
+  - Hybrid - Bengaluru: 31 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - IDESLABS PRIVATE LIMITED: 35 postings
+  - eClerx: 25 postings
+  - Tracxn: 19 postings
+  - Capgemini: 18 postings
+  - ABB: 18 postings
+  - IBM: 17 postings
+  - Amazon: 17 postings
+  - JPMorgan Chase Bank: 16 postings
+  - Google: 16 postings
+  - Accenture: 15 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Project Manager
+  - Product Manager
+  - Scrum Master
+  - Product Owner
+  - Technical Project Manager
+  - Program Manager
+  - Senior Product Manager
+  - Associate Program Manager
+  - Technical Program Manager
+  - Senior Project Manager
+  - Assistant Project Manager
+  - Project Manager Civil

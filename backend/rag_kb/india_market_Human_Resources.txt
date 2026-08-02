@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: HUMAN RESOURCES
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 2,439 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 1.5 LPA – 3.0 LPA
+  Junior (1-3 yrs): 2.2 LPA – 4.0 LPA
+  Mid-level (3-6 yrs): 5.0 LPA – 7.0 LPA
+  Senior (6-10 yrs): 8.0 LPA – 12.5 LPA
+  Lead/Principal (10+ yrs): 14.5 LPA – 20.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Recruitment — mentioned in 41% of postings
+   2. Talent Acquisition — mentioned in 21% of postings
+   3. It Recruitment — mentioned in 19% of postings
+   4. End To End Recruitment — mentioned in 15% of postings
+   5. Sourcing — mentioned in 12% of postings
+   6. Hiring — mentioned in 11% of postings
+   7. Hr Operations — mentioned in 10% of postings
+   8. Payroll — mentioned in 9% of postings
+   9. Screening — mentioned in 9% of postings
+  10. Non It Recruitment — mentioned in 9% of postings
+  11. Human Resource Management — mentioned in 8% of postings
+  12. Acquisition — mentioned in 8% of postings
+  13. Hr Generalist Activities — mentioned in 8% of postings
+  14. Us It Recruitment — mentioned in 8% of postings
+  15. Hrsd — mentioned in 8% of postings
+  16. Us Recruitment — mentioned in 8% of postings
+  17. Management — mentioned in 8% of postings
+  18. Employee Engagement — mentioned in 7% of postings
+  19. Communication Skills — mentioned in 7% of postings
+  20. Resource — mentioned in 7% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 285 openings
+  - Hyderabad: 240 openings
+  - Gurugram: 155 openings
+  - Pune: 144 openings
+  - Noida: 130 openings
+  - Chennai: 128 openings
+  - Mumbai: 104 openings
+  - Ahmedabad: 99 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Sita Corp: 117 postings
+  - PRO Hr Complete Solutions: 58 postings
+  - GEETHA TECHNOLOGY SOLUTIONS PRIVATE LIMITED: 32 postings
+  - Arise Solutions: 28 postings
+  - Orcapod Consulting Services: 22 postings
+  - Nxtwave Disruptive Technologies: 21 postings
+  - Tata AIA Life Insurance Company Ltd.: 17 postings
+  - Teleperformance (TP): 16 postings
+  - INNOVATION TRIGGERS MGMT PRIVATE LIMITED: 16 postings
+  - Conduent: 14 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Us It Lead Recruiter
+  - HR Executive
+  - Talent Acquisition Specialist
+  - Human Resource Recruiter
+  - Human Resource Manager
+  - Human Resource Executive
+  - Recruiter
+  - Hr Executive And Recruiter
+  - Talent Acquisition Executive
+  - IT Recruiter
+  - HR Manager
+  - HR Recruiter

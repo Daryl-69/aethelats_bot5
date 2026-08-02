@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: CONSULTING / STRATEGY / MANAGEMENT
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 199 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 3.0 LPA – 7.0 LPA
+  Junior (1-3 yrs): 1.9 LPA – 3.6 LPA
+  Mid-level (3-6 yrs): 5.0 LPA – 7.0 LPA
+  Senior (6-10 yrs): 10.5 LPA – 13.0 LPA
+  Lead/Principal (10+ yrs): 9.0 LPA – 19.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Project Management — mentioned in 43% of postings
+   2. Business Architecture — mentioned in 41% of postings
+   3. Pega Prpc — mentioned in 33% of postings
+   4. Business Analysis — mentioned in 26% of postings
+   5. Program Management — mentioned in 26% of postings
+   6. Business Process Modeling — mentioned in 25% of postings
+   7. Togaf — mentioned in 20% of postings
+   8. Microsoft Dynamics — mentioned in 16% of postings
+   9. C# — mentioned in 11% of postings
+  10. Erp — mentioned in 11% of postings
+  11. Ms Dynamics Crm — mentioned in 10% of postings
+  12. Consulting — mentioned in 8% of postings
+  13. Microsoft Dynamics Crm Technical — mentioned in 8% of postings
+  14. Web Services — mentioned in 8% of postings
+  15. Plugins — mentioned in 8% of postings
+  16. Management Consulting — mentioned in 8% of postings
+  17. Business Requirement Analysis — mentioned in 8% of postings
+  18. Guidewire — mentioned in 8% of postings
+  19. Gap Analysis — mentioned in 7% of postings
+  20. Sql Server — mentioned in 7% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 48 openings
+  - Pune: 39 openings
+  - Chennai: 23 openings
+  - Hyderabad: 19 openings
+  - Gurugram: 13 openings
+  - Mumbai: 12 openings
+  - Noida: 6 openings
+  - Faridabad: 3 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Accenture: 93 postings
+  - ZS: 15 postings
+  - EY: 10 postings
+  - IDESLABS PRIVATE LIMITED: 4 postings
+  - Infosys: 4 postings
+  - Avalara Technologies: 4 postings
+  - Sarvodaya Hospital: 3 postings
+  - Medanta: 3 postings
+  - Capgemini: 3 postings
+  - Godrej Properties: 2 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Business Architect
+  - Associate Consultant
+  - Strategy Manager
+  - Test Associate Consultant - Automation Testing
+  - Business Technology Solutions Associate Consultant
+  - SAP Treasury and Risk Management Consultant
+  - Corporate Strategy Manager
+  - Business Technology Solutions Associate Consultant - Power BI
+  - Business Consultant
+  - Senior Technology Consultant
+  - Attending Consultant/Associate Consultant Critical Care Medicine
+  - Associate Consultant/Consultant - Surgical Oncology

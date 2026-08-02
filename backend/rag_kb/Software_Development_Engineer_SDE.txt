@@ -1,0 +1,19 @@
+CAREER PATH: Software Development Engineer (SDE)
+============================================================
+
+Career levels: SDE-1 (0-2 yrs) → SDE-2 (2-5 yrs) → SDE-3 / Senior (5-8 yrs) → Staff Engineer (8+ yrs)
+
+Core skills required: Data Structures & Algorithms, System Design, Git, SQL, REST APIs
+Entry-level skills: Python or Java or C++, LeetCode (Easy-Medium), Basic SQL, Git basics
+Mid-level skills: System Design (HLD/LLD), Distributed Systems, Docker, CI/CD
+Senior-level skills: Architecture, Kubernetes, Mentoring, Tech leadership
+
+Salary benchmarks (India, CTC):
+  - SDE-1 fresher: 8-18 LPA
+  - SDE-1 experienced: 12-25 LPA
+  - SDE-2: 20-45 LPA
+  - SDE-3 Senior: 35-80 LPA
+  - Staff Engineer: 60-150 LPA
+
+Top companies hiring in India: Google, Microsoft, Amazon, Flipkart, PhonePe, Razorpay, Swiggy, Zepto
+Interview process: 3-5 rounds: DSA (2 rounds), System Design, Behavioral, Hiring Manager

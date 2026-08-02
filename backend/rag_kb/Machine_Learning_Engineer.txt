@@ -1,0 +1,21 @@
+CAREER PATH: Machine Learning Engineer
+============================================================
+
+Career levels: MLE-1 (0-2 yrs) → MLE-2 (2-5 yrs) → Senior MLE (5-8 yrs) → Staff MLE (8+ yrs)
+
+Core skills required: Python, Machine Learning fundamentals, SQL, Statistics, Git
+Entry-level skills: Python, scikit-learn, Pandas, NumPy, Basic ML (regression, classification, clustering), Kaggle competitions
+Mid-level skills: PyTorch or TensorFlow, MLflow, Docker, Feature Engineering, Model deployment (FastAPI + Docker), Spark basics
+Senior-level skills: MLOps (Kubeflow/Airflow), System Design for ML, LLMs, Research reading, A/B testing
+
+Salary benchmarks (India, CTC):
+  - MLE-1 fresher: 10-20 LPA
+  - MLE-2: 18-40 LPA
+  - Senior MLE: 35-80 LPA
+
+Top companies hiring in India: Google DeepMind, Microsoft Research, Amazon Science, Meesho, Juspay, Sarvam AI, Krutrim
+Recommended portfolio projects:
+  - End-to-end ML pipeline: data ingestion → training → deployment → monitoring
+  - Kaggle Top 10% in a structured data competition
+  - Fine-tune an open-source LLM on a custom dataset
+  - Deploy a model as a REST API with FastAPI + Docker

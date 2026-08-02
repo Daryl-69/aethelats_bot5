@@ -1,0 +1,16 @@
+CAREER PATH: Data Engineer
+============================================================
+
+Career levels: Junior DE (0-2 yrs) → Data Engineer (2-5 yrs) → Senior DE (5-8 yrs) → Principal DE (8+ yrs)
+
+Core skills required: SQL, Python, Apache Spark, Data Warehousing, ETL pipelines
+Entry-level skills: SQL (advanced: window functions, CTEs), Python, Basic ETL, Cloud basics (AWS S3, GCP GCS)
+Mid-level skills: Apache Spark / PySpark, Apache Airflow, dbt, Kafka, Snowflake or BigQuery, Docker
+Senior-level skills: Data architecture, Real-time streaming, Data governance, Cost optimization, Team leadership
+
+Salary benchmarks (India, CTC):
+  - Junior DE fresher: 6-15 LPA
+  - Data Engineer: 15-35 LPA
+  - Senior DE: 30-70 LPA
+
+Top companies hiring in India: Walmart Global Tech, Target, Razorpay, Dunzo, Navi Technologies

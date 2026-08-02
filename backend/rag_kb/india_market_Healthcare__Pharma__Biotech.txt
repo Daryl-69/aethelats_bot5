@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: HEALTHCARE / PHARMA / BIOTECH
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 2,005 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 2.5 LPA – 4.0 LPA
+  Junior (1-3 yrs): 3.0 LPA – 5.0 LPA
+  Mid-level (3-6 yrs): 3.5 LPA – 6.0 LPA
+  Senior (6-10 yrs): 7.0 LPA – 10.0 LPA
+  Lead/Principal (10+ yrs): 15.0 LPA – 20.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Medical Coding — mentioned in 11% of postings
+   2. Nursing — mentioned in 10% of postings
+   3. Medical — mentioned in 9% of postings
+   4. Pharmaceutical — mentioned in 8% of postings
+   5. Us Healthcare — mentioned in 8% of postings
+   6. Patient Care — mentioned in 6% of postings
+   7. Pharmacy — mentioned in 6% of postings
+   8. Cpt — mentioned in 6% of postings
+   9. Medical Writing — mentioned in 6% of postings
+  10. Clinical Research — mentioned in 6% of postings
+  11. Healthcare — mentioned in 5% of postings
+  12. Medicine — mentioned in 5% of postings
+  13. Cpc — mentioned in 5% of postings
+  14. Pharmacovigilance — mentioned in 5% of postings
+  15. Hospital — mentioned in 5% of postings
+  16. Gnm — mentioned in 5% of postings
+  17. Icd — mentioned in 4% of postings
+  18. Revenue Cycle Management — mentioned in 4% of postings
+  19. Ar Calling — mentioned in 4% of postings
+  20. Drug Safety — mentioned in 4% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Chennai: 166 openings
+  - Bengaluru: 164 openings
+  - Hyderabad: 143 openings
+  - Mumbai: 115 openings
+  - Gurugram: 72 openings
+  - Pune: 66 openings
+  - Navi Mumbai: 50 openings
+  - Ahmedabad: 42 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Gratitude India Manpower Consultants Pvt. Ltd.: 156 postings
+  - TPS Consultants: 67 postings
+  - Achievers Spot: 49 postings
+  - Resolve Medicode: 43 postings
+  - Access Healthcare: 28 postings
+  - Accenture: 27 postings
+  - Axis Services: 19 postings
+  - Vee Healthtek: 19 postings
+  - CorroHealth: 17 postings
+  - Omega Healthcare: 16 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Pharmacist
+  - Staff Nurse
+  - Medical Representative
+  - Physiotherapist
+  - Medical Officer
+  - Lab Technician
+  - Medical Coder
+  - Radiologist
+  - Nurse
+  - Medical Writer
+  - Radiologist Consultant
+  - Hiring For Registered Nurses To Work in Qatar

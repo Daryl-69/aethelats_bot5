@@ -1,0 +1,34 @@
+SKILL ADJACENCY MAP (for career transition advice)
+============================================================
+
+If a candidate has skill X, they can naturally learn skill Y next.
+
+Data Visualization:
+  Related skills: D3.js, Tableau, Power BI, Seaborn, Matplotlib, Plotly, Looker, Grafana
+
+Backend Development:
+  Related skills: Node.js, Django, Flask, FastAPI, Spring Boot, Express.js, Ruby on Rails
+
+Frontend Development:
+  Related skills: React, Vue.js, Angular, Next.js, Svelte, HTML, CSS
+
+DevOps:
+  Related skills: Docker, Kubernetes, Terraform, CI/CD, Ansible, Helm, Prometheus
+
+Cloud Infrastructure:
+  Related skills: AWS, GCP, Azure, Serverless, Lambda, Cloud Functions
+
+Machine Learning Engineering:
+  Related skills: ML, TensorFlow, PyTorch, scikit-learn, MLflow, Kubeflow, Feature Store
+
+Data Engineering:
+  Related skills: Apache Kafka, Airflow, dbt, Spark, Flink, ETL, ELT, data pipelines
+
+Database Management:
+  Related skills: SQL, PostgreSQL, MongoDB, Redis, Cassandra, DynamoDB, BigQuery
+
+Security:
+  Related skills: OAuth, JWT, SSL/TLS, OWASP, penetration testing, SIEM, IAM
+
+Mobile Development:
+  Related skills: React Native, Flutter, Swift, Kotlin, Android, iOS

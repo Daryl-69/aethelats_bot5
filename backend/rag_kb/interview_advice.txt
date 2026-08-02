@@ -1,0 +1,41 @@
+
+INTERVIEW PREPARATION GUIDE FOR INDIAN TECH MARKET
+===================================================
+
+DSA / Coding Rounds:
+- Practice on LeetCode. Use Striver's A-Z sheet as your curriculum.
+- Target: 150+ problems before appearing for product companies (FAANG/Flipkart/Razorpay).
+- Focus areas by role:
+  - SDE: Arrays, Strings, Trees, Graphs, DP, Sliding Window
+  - MLE: Same as SDE + Statistics, Probability basics
+  - Data Engineer: SQL (heavy), Python scripting, basic DS
+- Time yourself: aim for 20-25 minutes per medium problem.
+
+System Design (for 2+ years experience):
+- Study: Grokking System Design, ByteByteGo, Gaurav Sen YouTube
+- Practiced topics: URL shortener, Twitter feed, WhatsApp, Uber surge pricing
+- Draw diagrams, discuss trade-offs, ask clarifying questions
+
+Behavioral Rounds:
+- Use STAR format: Situation, Task, Action, Result
+- Prepare 5-6 stories: a conflict, a failure, a success, a leadership moment
+- Know why you want to join that company specifically
+
+Resume Tips for India:
+- Keep to 1 page for under 5 years experience
+- Quantify: "Reduced API latency by 40%" not "improved performance"
+- List GitHub profile, LeetCode handle, and any Kaggle ranking
+- Put CGPA only if above 7.5; omit if lower
+- For freshers: lead with projects, not education
+
+Salary Negotiation:
+- Always give a range, not a number. Upper range = your target.
+- Don't reveal current salary (banned in some states in the US, but common in India)
+- Use competing offers if you have them
+- Joining bonus is often negotiable even when base is fixed
+
+Cold Outreach on LinkedIn:
+- Connect with SDEs at target companies, not HR
+- Message: "Hi, I'm a [role] with [X years] experience. I noticed [company] is hiring for [role]. 
+  I'd love a referral if you feel my profile is a good fit. Here's my resume: [link]"
+- Referrals can move your application to top of queue and sometimes add a 1-2 LPA referral bonus.

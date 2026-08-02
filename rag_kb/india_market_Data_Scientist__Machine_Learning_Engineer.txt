@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: DATA SCIENTIST / MACHINE LEARNING ENGINEER
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 1,107 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 5.0 LPA – 10.0 LPA
+  Junior (1-3 yrs): 7.0 LPA – 13.5 LPA
+  Mid-level (3-6 yrs): 12.0 LPA – 20.0 LPA
+  Senior (6-10 yrs): 22.5 LPA – 35.0 LPA
+  Lead/Principal (10+ yrs): 25.0 LPA – 33.8 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Python — mentioned in 55% of postings
+   2. Machine Learning — mentioned in 49% of postings
+   3. Artificial Intelligence — mentioned in 29% of postings
+   4. Natural Language Processing — mentioned in 24% of postings
+   5. Data Science — mentioned in 20% of postings
+   6. Tensorflow — mentioned in 19% of postings
+   7. Pytorch — mentioned in 14% of postings
+   8. Image Processing — mentioned in 14% of postings
+   9. Algorithms — mentioned in 13% of postings
+  10. Deep Learning — mentioned in 13% of postings
+  11. Chatbot — mentioned in 12% of postings
+  12. Sql — mentioned in 12% of postings
+  13. Generative Ai — mentioned in 11% of postings
+  14. Aws — mentioned in 10% of postings
+  15. Data — mentioned in 9% of postings
+  16. Data Analysis — mentioned in 9% of postings
+  17. Ml — mentioned in 8% of postings
+  18. Kubernetes — mentioned in 8% of postings
+  19. Computer Science — mentioned in 7% of postings
+  20. Gcp — mentioned in 7% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 309 openings
+  - Pune: 133 openings
+  - Hyderabad: 102 openings
+  - Chennai: 67 openings
+  - Gurugram: 63 openings
+  - Remote: 37 openings
+  - Mumbai: 32 openings
+  - Noida: 23 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Accenture: 184 postings
+  - Wenger & Watson: 37 postings
+  - Incedo: 20 postings
+  - IBM: 19 postings
+  - Axtria: 17 postings
+  - Uplers: 16 postings
+  - Krazy Mantra HR Solutions Pvt. Ltd: 13 postings
+  - Capgemini: 13 postings
+  - Amgen Inc: 12 postings
+  - Infosys: 12 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - AI / ML Engineer
+  - Data Scientist
+  - Senior Data Scientist
+  - Machine Learning Engineer
+  - AI Engineer
+  - Data Scientist-Artificial Intelligence
+  - Data Science Engineer
+  - Ai Ml Engineer
+  - Lead Data Scientist
+  - AI/ML Engineer
+  - Senior AI Engineer
+  - Ml Engineer

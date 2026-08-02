@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: QA / TEST ENGINEER
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 1,521 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 1.6 LPA – 2.9 LPA
+  Junior (1-3 yrs): 3.0 LPA – 5.0 LPA
+  Mid-level (3-6 yrs): 5.2 LPA – 10.0 LPA
+  Senior (6-10 yrs): 15.0 LPA – 18.0 LPA
+  Lead/Principal (10+ yrs): 13.0 LPA – 20.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Automation Testing — mentioned in 31% of postings
+   2. Software Testing — mentioned in 27% of postings
+   3. Selenium — mentioned in 23% of postings
+   4. Automation — mentioned in 19% of postings
+   5. Manual Testing — mentioned in 16% of postings
+   6. Test Cases — mentioned in 13% of postings
+   7. Quality Assurance — mentioned in 12% of postings
+   8. Python — mentioned in 11% of postings
+   9. Java — mentioned in 11% of postings
+  10. Api Testing — mentioned in 10% of postings
+  11. Performance Testing — mentioned in 10% of postings
+  12. Regression Testing — mentioned in 9% of postings
+  13. Continuous Integration — mentioned in 8% of postings
+  14. Automation Framework — mentioned in 7% of postings
+  15. Agile — mentioned in 6% of postings
+  16. Quality — mentioned in 6% of postings
+  17. Test Engineering — mentioned in 6% of postings
+  18. Sql — mentioned in 6% of postings
+  19. Jira — mentioned in 5% of postings
+  20. Manager Quality Assurance — mentioned in 5% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 358 openings
+  - Pune: 194 openings
+  - Hyderabad: 160 openings
+  - Chennai: 80 openings
+  - Gurugram: 57 openings
+  - Mumbai: 43 openings
+  - Noida: 37 openings
+  - Remote: 35 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Accenture: 151 postings
+  - Wipro: 83 postings
+  - HR Innovation Group: 41 postings
+  - Infosys: 36 postings
+  - QualityKiosk: 25 postings
+  - IDESLABS PRIVATE LIMITED: 20 postings
+  - Eurofins: 15 postings
+  - Talent21: 14 postings
+  - IBM: 14 postings
+  - Conduent: 13 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Quality Engineer
+  - Quality Engineer (Tester)
+  - Test Engineer - L3
+  - Quality Engineering Lead (Test Lead)
+  - Senior Test Engineer
+  - Automation Test Engineer
+  - Test Automation Engineer
+  - Test Engineer
+  - Automation Engineer
+  - Automation Tester
+  - QA Engineer
+  - Qa Engineer

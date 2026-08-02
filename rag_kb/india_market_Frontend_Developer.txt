@@ -1,0 +1,67 @@
+INDIAN JOB MARKET DATA: FRONTEND DEVELOPER
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 429 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 1.8 LPA – 3.0 LPA
+  Junior (1-3 yrs): 3.0 LPA – 4.5 LPA
+  Mid-level (3-6 yrs): 9.2 LPA – 15.0 LPA
+  Senior (6-10 yrs): 10.0 LPA – 20.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Javascript — mentioned in 49% of postings
+   2. Css — mentioned in 42% of postings
+   3. Html — mentioned in 33% of postings
+   4. React.Js — mentioned in 27% of postings
+   5. Development — mentioned in 21% of postings
+   6. Angular — mentioned in 21% of postings
+   7. Front End — mentioned in 20% of postings
+   8. Typescript — mentioned in 17% of postings
+   9. Frontend Development — mentioned in 15% of postings
+  10. Ui Development — mentioned in 13% of postings
+  11. Redux — mentioned in 12% of postings
+  12. Web Technologies — mentioned in 11% of postings
+  13. Bootstrap — mentioned in 11% of postings
+  14. Git — mentioned in 10% of postings
+  15. Web Development — mentioned in 9% of postings
+  16. Backend — mentioned in 7% of postings
+  17. Ui — mentioned in 7% of postings
+  18. Angularjs — mentioned in 6% of postings
+  19. Rxjs — mentioned in 6% of postings
+  20. Jquery — mentioned in 6% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 101 openings
+  - Pune: 42 openings
+  - Hyderabad: 33 openings
+  - Mumbai: 29 openings
+  - Chennai: 20 openings
+  - Remote: 18 openings
+  - Hybrid - Bengaluru: 16 openings
+  - Noida: 15 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Accenture: 22 postings
+  - Infosys: 16 postings
+  - IDESLABS PRIVATE LIMITED: 15 postings
+  - PRADEEPIT CONSULTING SERVICES PVT LTD: 9 postings
+  - Vision Beyond Resources India Private Limited: 9 postings
+  - Itransparity: 6 postings
+  - Code Orion: 6 postings
+  - Persistent: 6 postings
+  - Talent21: 6 postings
+  - Uplers: 5 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Front End Developer
+  - Web Developer
+  - Angular Developer
+  - UI Developer
+  - Frontend Developer
+  - React Developer
+  - Senior Angular Developer
+  - Senior Frontend Developer
+  - Java Angular Developer Bangalore
+  - Ui Developer
+  - Senior Web Developer
+  - Frontend Developer - Slot Games

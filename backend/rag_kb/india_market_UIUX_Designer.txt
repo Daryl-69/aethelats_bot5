@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: UI/UX DESIGNER
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 699 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 1.8 LPA – 3.0 LPA
+  Junior (1-3 yrs): 2.5 LPA – 4.2 LPA
+  Mid-level (3-6 yrs): 4.2 LPA – 7.0 LPA
+  Senior (6-10 yrs): 20.0 LPA – 35.0 LPA
+  Lead/Principal (10+ yrs): 5.0 LPA – 15.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Graphic Designing — mentioned in 35% of postings
+   2. Photoshop — mentioned in 33% of postings
+   3. Illustrator — mentioned in 31% of postings
+   4. Graphics — mentioned in 24% of postings
+   5. Design — mentioned in 19% of postings
+   6. Figma — mentioned in 18% of postings
+   7. Ux — mentioned in 18% of postings
+   8. Adobe Creative Suite — mentioned in 15% of postings
+   9. Video Editing — mentioned in 13% of postings
+  10. Adobe Xd — mentioned in 11% of postings
+  11. User Interface Designing — mentioned in 11% of postings
+  12. Corel Draw — mentioned in 11% of postings
+  13. Product Design — mentioned in 11% of postings
+  14. Adobe — mentioned in 10% of postings
+  15. Adobe After Effects — mentioned in 10% of postings
+  16. Prototyping — mentioned in 9% of postings
+  17. Ui/Ux — mentioned in 8% of postings
+  18. Social Media — mentioned in 7% of postings
+  19. Ux Design — mentioned in 7% of postings
+  20. Indesign — mentioned in 7% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 119 openings
+  - Noida: 56 openings
+  - Pune: 55 openings
+  - Hyderabad: 52 openings
+  - Mumbai: 45 openings
+  - Gurugram: 41 openings
+  - Chennai: 33 openings
+  - Ahmedabad: 29 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Accenture: 35 postings
+  - Essentiallysports: 12 postings
+  - Uplers: 8 postings
+  - Infosys: 7 postings
+  - EY: 6 postings
+  - IDESLABS PRIVATE LIMITED: 6 postings
+  - Made In India Media: 5 postings
+  - Talent Corner Hr Services: 4 postings
+  - IBM: 4 postings
+  - Zebronics: 3 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Graphic Designer
+  - User Experience Designer
+  - Senior Graphic Designer
+  - UI/UX Designer
+  - Product Designer
+  - Ux And Ui Designer
+  - UX Designer
+  - Motion Graphic Designer
+  - Sr. Product Designer
+  - Web Designer
+  - Visual Designer
+  - Graphic Designer Executive

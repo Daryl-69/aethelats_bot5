@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: SOFTWARE DEVELOPMENT ENGINEER (SDE / BACKEND)
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 8,274 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 3.0 LPA – 5.0 LPA
+  Junior (1-3 yrs): 3.5 LPA – 6.0 LPA
+  Mid-level (3-6 yrs): 10.0 LPA – 17.0 LPA
+  Senior (6-10 yrs): 15.0 LPA – 25.0 LPA
+  Lead/Principal (10+ yrs): 20.0 LPA – 30.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Css — mentioned in 27% of postings
+   2. C# — mentioned in 20% of postings
+   3. Java — mentioned in 19% of postings
+   4. Python — mentioned in 19% of postings
+   5. Sap — mentioned in 17% of postings
+   6. Application Development — mentioned in 15% of postings
+   7. Rest — mentioned in 13% of postings
+   8. Software Development — mentioned in 13% of postings
+   9. Sql — mentioned in 12% of postings
+  10. Javascript — mentioned in 11% of postings
+  11. Web Services — mentioned in 10% of postings
+  12. Development Methodologies — mentioned in 9% of postings
+  13. Spring Boot — mentioned in 9% of postings
+  14. Microservices — mentioned in 9% of postings
+  15. C++ — mentioned in 8% of postings
+  16. Application Design — mentioned in 8% of postings
+  17. Agile — mentioned in 8% of postings
+  18. Development — mentioned in 7% of postings
+  19. Hibernate — mentioned in 7% of postings
+  20. Oracle — mentioned in 7% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 3,056 openings
+  - Hyderabad: 1,177 openings
+  - Pune: 1,083 openings
+  - Chennai: 412 openings
+  - Mumbai: 282 openings
+  - Gurugram: 258 openings
+  - Noida: 194 openings
+  - Navi Mumbai: 162 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Accenture: 4,075 postings
+  - IBM: 230 postings
+  - Infosys: 229 postings
+  - Wipro: 226 postings
+  - PRADEEPIT CONSULTING SERVICES PVT LTD: 99 postings
+  - IDESLABS PRIVATE LIMITED: 89 postings
+  - JPMorgan Chase Bank: 73 postings
+  - Talent21: 58 postings
+  - Capgemini: 53 postings
+  - Incedo: 52 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Application Developer
+  - Application Lead
+  - Software Development Engineer
+  - Java Developer
+  - Senior Software Engineer
+  - Software Development Lead
+  - Software Engineer
+  - Developer - L3
+  - Python Developer
+  - Developer - L4
+  - Senior Java Developer
+  - Software Developer

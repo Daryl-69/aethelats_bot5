@@ -1,0 +1,16 @@
+CAREER PATH: Full Stack Developer
+============================================================
+
+Career levels: Junior (0-2 yrs) → Mid-level (2-5 yrs) → Senior (5+ yrs)
+
+Core skills required: HTML/CSS, JavaScript, React or Vue, Node.js or Python backend, SQL, Git
+Entry-level skills: HTML, CSS, JavaScript fundamentals, React basics, REST API integration, Basic SQL, Git
+Mid-level skills: TypeScript, Next.js, FastAPI or Express, PostgreSQL, Docker, Redis
+Senior-level skills: System design, WebSockets, Microservices, Performance optimization, CI/CD
+
+Salary benchmarks (India, CTC):
+  - Junior fresher: 5-12 LPA
+  - Mid-level: 12-30 LPA
+  - Senior: 25-60 LPA
+
+Top companies hiring in India: Startups, Razorpay, BrowserStack, Postman, Freshworks

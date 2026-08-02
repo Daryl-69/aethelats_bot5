@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: CUSTOMER SUPPORT / CUSTOMER SUCCESS
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 3,112 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 2.0 LPA – 3.8 LPA
+  Junior (1-3 yrs): 2.5 LPA – 4.5 LPA
+  Mid-level (3-6 yrs): 4.0 LPA – 6.0 LPA
+  Senior (6-10 yrs): 8.2 LPA – 11.5 LPA
+  Lead/Principal (10+ yrs): 12.0 LPA – 18.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Customer Service — mentioned in 57% of postings
+   2. Customer Support — mentioned in 29% of postings
+   3. Voice Process — mentioned in 24% of postings
+   4. Bpo — mentioned in 21% of postings
+   5. Customer Care — mentioned in 17% of postings
+   6. International Voice Process — mentioned in 15% of postings
+   7. International Bpo — mentioned in 14% of postings
+   8. Non Voice Process — mentioned in 14% of postings
+   9. International Call Center — mentioned in 12% of postings
+  10. Communication Skills — mentioned in 12% of postings
+  11. Stress Analysis — mentioned in 11% of postings
+  12. Market Research — mentioned in 11% of postings
+  13. Moderation — mentioned in 11% of postings
+  14. Content Writing — mentioned in 11% of postings
+  15. Inbound Process — mentioned in 10% of postings
+  16. Blended Process — mentioned in 10% of postings
+  17. Voice — mentioned in 9% of postings
+  18. Voice Support — mentioned in 8% of postings
+  19. Sales — mentioned in 8% of postings
+  20. Bpo Voice — mentioned in 7% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 449 openings
+  - Navi Mumbai: 377 openings
+  - Gurugram: 203 openings
+  - Hyderabad: 176 openings
+  - Pune: 139 openings
+  - Noida: 113 openings
+  - Mumbai, Pune, Delhi: 111 openings
+  - Chennai: 109 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Accenture: 416 postings
+  - Tata Capital: 168 postings
+  - JobShop: 104 postings
+  - eClerx: 77 postings
+  - Gratitude India Manpower Consultants Pvt. Ltd.: 73 postings
+  - Teleperformance (TP): 71 postings
+  - Imaginators Try Going Beyond: 36 postings
+  - Policybazaar: 34 postings
+  - Tech Mahindra: 31 postings
+  - Smart Vision Consultancy Services: 28 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Trust & Safety New Associate
+  - Customer Support Executive
+  - Customer Care Executive
+  - Customer Service Executive
+  - Chat Support Executive
+  - Customer Service Representative
+  - Customer Support Representative
+  - Customer Support Associate
+  - Customer Service Associate
+  - Chat Support Executive - Non Voice- BPO
+  - Trust & Safety Associate
+  - Customer Service - Sales - Housing - EM - Sales

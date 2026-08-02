@@ -1,0 +1,87 @@
+SKILL-TO-COURSE MAPPING FOR CAREER COACHING
+============================================================
+
+
+--- Python ---
+  [FREE] Python for Everybody — Coursera
+    Level: Beginner | URL: https://www.coursera.org/specializations/python
+  [FREE] Automate the Boring Stuff with Python — Book/Online
+    Level: Beginner | URL: https://automatetheboringstuff.com
+  [PAID] Python Bootcamp — Udemy (Jose Portilla)
+    Level: Beginner-Intermediate | URL: https://www.udemy.com/course/complete-python-bootcamp/
+
+--- Data Structures & Algorithms ---
+  [FREE] Striver's A-Z DSA Sheet — takeUforward
+    Level: All levels | URL: https://takeuforward.org/strivers-a2z-dsa-course/
+  [FREE] NeetCode 150 — LeetCode/NeetCode
+    Level: Intermediate | URL: https://neetcode.io
+  [PAID] Data Structures and Algorithms Specialization — Coursera (UCSD)
+    Level: Intermediate | URL: https://www.coursera.org/specializations/data-structures-algorithms
+
+--- System Design ---
+  [FREE] System Design Primer — GitHub
+    Level: Intermediate-Senior | URL: https://github.com/donnemartin/system-design-primer
+  [PAID] Grokking the System Design Interview — DesignGurus
+    Level: Intermediate | URL: https://www.designgurus.io/course/grokking-the-system-design-interview
+  [PAID] ByteByteGo — bytebytego.com
+    Level: All | URL: https://bytebytego.com
+
+--- Machine Learning ---
+  [PAID] Machine Learning Specialization — Coursera (Andrew Ng)
+    Level: Beginner | URL: https://www.coursera.org/specializations/machine-learning-introduction
+  [FREE] fast.ai Practical Deep Learning — fast.ai
+    Level: Intermediate | URL: https://course.fast.ai
+  [FREE] Kaggle ML Courses — Kaggle
+    Level: Beginner-Intermediate | URL: https://www.kaggle.com/learn
+
+--- PyTorch ---
+  [FREE] Deep Learning with PyTorch: Zero to Mastery — ZeroToMastery
+    Level: Beginner-Intermediate | URL: https://www.learnpytorch.io
+  [FREE] PyTorch Official Tutorials — pytorch.org
+    Level: All | URL: https://pytorch.org/tutorials/
+
+--- SQL ---
+  [FREE] SQLZoo — sqlzoo.net
+    Level: Beginner | URL: https://sqlzoo.net
+  [FREE] Mode SQL Tutorial — Mode Analytics
+    Level: Beginner-Intermediate | URL: https://mode.com/sql-tutorial/
+  [PAID] Advanced SQL for Data Scientists — Coursera
+    Level: Advanced | URL: https://www.coursera.org/learn/advanced-sql
+
+--- Docker ---
+  [FREE] Docker Official Get Started — docs.docker.com
+    Level: Beginner | URL: https://docs.docker.com/get-started/
+  [PAID] Docker & Kubernetes: The Practical Guide — Udemy
+    Level: Intermediate | URL: https://www.udemy.com/course/docker-kubernetes-the-practical-guide/
+
+--- Kubernetes ---
+  [FREE] Kubernetes Official Tutorial — kubernetes.io
+    Level: Intermediate | URL: https://kubernetes.io/docs/tutorials/
+  [PAID] CKA with Practice Tests — Udemy (Mumshad Mannambeth)
+    Level: Intermediate-Advanced | URL: https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
+
+--- AWS ---
+  [FREE] AWS Cloud Practitioner Essentials — AWS Training
+    Level: Beginner | URL: https://aws.amazon.com/training/
+  [PAID] AWS Solutions Architect Associate — Udemy (Stephane Maarek)
+    Level: Intermediate | URL: https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/
+
+--- React ---
+  [FREE] React Official Docs (react.dev) — react.dev
+    Level: Beginner | URL: https://react.dev/learn
+  [FREE] The Odin Project - Full Stack — theodinproject.com
+    Level: Beginner-Intermediate | URL: https://www.theodinproject.com
+
+--- Apache Kafka ---
+  [FREE] Kafka: The Definitive Guide — O'Reilly (free PDF)
+    Level: Intermediate | URL: https://www.confluent.io/resources/kafka-the-definitive-guide-v2/
+  [PAID] Apache Kafka Series — Udemy (Stephane Maarek)
+    Level: Intermediate | URL: https://www.udemy.com/course/apache-kafka/
+
+--- Large Language Models / LLMs ---
+  [FREE] Hugging Face NLP Course — huggingface.co
+    Level: Intermediate | URL: https://huggingface.co/learn/nlp-course
+  [FREE] LLM University — Cohere
+    Level: Beginner-Intermediate | URL: https://docs.cohere.com/docs/llmu
+  [FREE] Building LLM-Powered Applications — deeplearning.ai
+    Level: Intermediate | URL: https://www.deeplearning.ai/short-courses/

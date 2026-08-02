@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: MARKETING
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 1,645 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 1.8 LPA – 3.0 LPA
+  Junior (1-3 yrs): 2.5 LPA – 4.2 LPA
+  Mid-level (3-6 yrs): 4.8 LPA – 7.2 LPA
+  Senior (6-10 yrs): 8.0 LPA – 12.0 LPA
+  Lead/Principal (10+ yrs): 10.0 LPA – 15.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Digital Marketing — mentioned in 25% of postings
+   2. Marketing — mentioned in 24% of postings
+   3. Content Writing — mentioned in 15% of postings
+   4. Seo — mentioned in 15% of postings
+   5. Social Media Marketing — mentioned in 13% of postings
+   6. Social Media — mentioned in 12% of postings
+   7. Wordpress — mentioned in 9% of postings
+   8. Sales — mentioned in 9% of postings
+   9. Content — mentioned in 8% of postings
+  10. Google Analytics — mentioned in 8% of postings
+  11. English — mentioned in 8% of postings
+  12. Content Editing — mentioned in 8% of postings
+  13. Google Adwords — mentioned in 7% of postings
+  14. Media — mentioned in 7% of postings
+  15. Digital — mentioned in 7% of postings
+  16. Management — mentioned in 7% of postings
+  17. Cms — mentioned in 7% of postings
+  18. Google Ads — mentioned in 7% of postings
+  19. Sales And Marketing — mentioned in 7% of postings
+  20. Content Creation — mentioned in 6% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 205 openings
+  - Hyderabad: 121 openings
+  - Gurugram: 114 openings
+  - Noida: 90 openings
+  - Pune: 87 openings
+  - Chennai: 83 openings
+  - Mumbai: 80 openings
+  - Remote: 73 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Essentiallysports: 146 postings
+  - Dataannotation: 24 postings
+  - Wsne Consulting: 18 postings
+  - Nxtwave Disruptive Technologies: 9 postings
+  - Mdn Edify Education: 9 postings
+  - Uplers: 8 postings
+  - Talent Corner Hr Services: 8 postings
+  - Bombay Coated And Special Steels: 7 postings
+  - Invent Arc: 6 postings
+  - Supro Consulting: 5 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Marketing Executive
+  - Digital Marketing Executive
+  - Marketing Manager
+  - NFL Content Writer
+  - Sports Content Writer
+  - Content Writer
+  - Social Media Manager
+  - Social Media Executive
+  - Digital Marketing Specialist
+  - Sales And Marketing Executive
+  - Digital Marketing Manager
+  - Technical Writer

@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: OTHER PROFESSIONAL ROLES
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 45,801 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 2.0 LPA – 3.5 LPA
+  Junior (1-3 yrs): 2.5 LPA – 4.5 LPA
+  Mid-level (3-6 yrs): 4.8 LPA – 7.5 LPA
+  Senior (6-10 yrs): 10.0 LPA – 16.0 LPA
+  Lead/Principal (10+ yrs): 15.0 LPA – 20.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Sales — mentioned in 7% of postings
+   2. Project Management — mentioned in 7% of postings
+   3. Management — mentioned in 5% of postings
+   4. Customer Service — mentioned in 5% of postings
+   5. Sap — mentioned in 5% of postings
+   6. Python — mentioned in 4% of postings
+   7. Communication Skills — mentioned in 4% of postings
+   8. Sql — mentioned in 3% of postings
+   9. Business Development — mentioned in 3% of postings
+  10. Development — mentioned in 3% of postings
+  11. Troubleshooting — mentioned in 3% of postings
+  12. Analytical — mentioned in 3% of postings
+  13. Team Management — mentioned in 3% of postings
+  14. Operations — mentioned in 3% of postings
+  15. Java — mentioned in 3% of postings
+  16. Javascript — mentioned in 2% of postings
+  17. Css — mentioned in 2% of postings
+  18. Oracle — mentioned in 2% of postings
+  19. Automation — mentioned in 2% of postings
+  20. Consulting — mentioned in 2% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 8,256 openings
+  - Hyderabad: 3,876 openings
+  - Pune: 3,427 openings
+  - Chennai: 2,613 openings
+  - Mumbai: 2,468 openings
+  - Gurugram: 2,243 openings
+  - Noida: 1,389 openings
+  - Ahmedabad: 1,036 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Accenture: 1,877 postings
+  - IDESLABS PRIVATE LIMITED: 1,447 postings
+  - Wipro: 732 postings
+  - Krazy Mantra HR Solutions Pvt. Ltd: 676 postings
+  - Infosys: 450 postings
+  - Capgemini: 449 postings
+  - EY: 440 postings
+  - HR Innovation Group: 422 postings
+  - Vision Beyond Resources India Private Limited: 414 postings
+  - Axis Bank: 410 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Business Development Associate
+  - Application Designer
+  - Branch:Branch Relationship Officer
+  - Lead Administrator - L1
+  - Analyst
+  - Tele Caller
+  - Dot Net Developer
+  - Purchase Executive
+  - Manager
+  - International Voice Process Executive
+  - Architect
+  - Sales Coordinator

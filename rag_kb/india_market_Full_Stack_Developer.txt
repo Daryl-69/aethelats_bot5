@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: FULL STACK DEVELOPER
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 1,511 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 2.2 LPA – 3.2 LPA
+  Junior (1-3 yrs): 3.8 LPA – 7.0 LPA
+  Mid-level (3-6 yrs): 10.0 LPA – 18.0 LPA
+  Senior (6-10 yrs): 15.0 LPA – 22.5 LPA
+  Lead/Principal (10+ yrs): 17.0 LPA – 25.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Java — mentioned in 43% of postings
+   2. React.Js — mentioned in 33% of postings
+   3. Full Stack — mentioned in 30% of postings
+   4. Javascript — mentioned in 26% of postings
+   5. Css — mentioned in 26% of postings
+   6. Angular — mentioned in 26% of postings
+   7. Spring Boot — mentioned in 22% of postings
+   8. Microservices — mentioned in 19% of postings
+   9. Html — mentioned in 16% of postings
+  10. Development — mentioned in 14% of postings
+  11. Stack — mentioned in 12% of postings
+  12. Python — mentioned in 12% of postings
+  13. Sql — mentioned in 11% of postings
+  14. Spring — mentioned in 11% of postings
+  15. C# — mentioned in 11% of postings
+  16. Node.Js — mentioned in 11% of postings
+  17. Fullstack Development — mentioned in 11% of postings
+  18. Java Fullstack — mentioned in 10% of postings
+  19. Aws — mentioned in 9% of postings
+  20. Rest — mentioned in 9% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 251 openings
+  - Pune: 128 openings
+  - Hyderabad: 126 openings
+  - Remote: 89 openings
+  - Chennai: 86 openings
+  - Hybrid - Bengaluru: 73 openings
+  - Mumbai: 65 openings
+  - Noida: 51 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Purview India Consulting And  Services  Llp: 121 postings
+  - Accenture: 99 postings
+  - PRADEEPIT CONSULTING SERVICES PVT LTD: 77 postings
+  - Krazy Mantra HR Solutions Pvt. Ltd: 60 postings
+  - Talent21: 32 postings
+  - Wenger & Watson: 29 postings
+  - Infosys: 28 postings
+  - Iris Software: 27 postings
+  - IDESLABS PRIVATE LIMITED: 17 postings
+  - Cloudxtreme: 16 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Java Full Stack Developer
+  - Full Stack Engineer
+  - Fullstack Developer
+  - Full Stack Developer
+  - Dot Net Fullstack Developer
+  - Senior Full Stack Developer
+  - Java Fullstack - Senior Engineer
+  - Fullstack Data Engineer
+  - Python Fullstack Developer
+  - Fullstack Engineer
+  - Mern Full Stack Developer
+  - Java Fullstack Developer

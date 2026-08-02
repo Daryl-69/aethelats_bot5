@@ -1,0 +1,68 @@
+INDIAN JOB MARKET DATA: TECHNICAL LEAD / ARCHITECT / CTO
+=================================================================
+Source: Indian Job Market Dataset 2025 | Sample size: 2,705 job postings
+
+SALARY BENCHMARKS (Indian Market, Median CTC):
+  Fresher (0-1 yr): 2.4 LPA – 4.2 LPA
+  Junior (1-3 yrs): 2.5 LPA – 4.2 LPA
+  Mid-level (3-6 yrs): 5.4 LPA – 9.0 LPA
+  Senior (6-10 yrs): 17.0 LPA – 25.0 LPA
+  Lead/Principal (10+ yrs): 20.0 LPA – 30.0 LPA
+
+TOP IN-DEMAND SKILLS (ranked by frequency in job postings):
+   1. Technical Leadership — mentioned in 13% of postings
+   2. Project Management — mentioned in 11% of postings
+   3. Java — mentioned in 9% of postings
+   4. Python — mentioned in 9% of postings
+   5. Troubleshooting — mentioned in 8% of postings
+   6. C# — mentioned in 8% of postings
+   7. Technical Support — mentioned in 6% of postings
+   8. Architecture — mentioned in 6% of postings
+   9. Microservices — mentioned in 5% of postings
+  10. Team Management — mentioned in 5% of postings
+  11. Sap — mentioned in 4% of postings
+  12. C++ — mentioned in 4% of postings
+  13. Aws — mentioned in 4% of postings
+  14. Sql — mentioned in 4% of postings
+  15. Automation — mentioned in 4% of postings
+  16. Agile — mentioned in 4% of postings
+  17. Oracle — mentioned in 4% of postings
+  18. Css — mentioned in 4% of postings
+  19. Kubernetes — mentioned in 4% of postings
+  20. Api — mentioned in 4% of postings
+
+TOP HIRING CITIES IN INDIA:
+  - Bengaluru: 689 openings
+  - Hyderabad: 278 openings
+  - Pune: 233 openings
+  - Chennai: 159 openings
+  - Gurugram: 130 openings
+  - Mumbai: 122 openings
+  - Noida: 79 openings
+  - Remote: 63 openings
+
+TOP COMPANIES ACTIVELY HIRING:
+  - Wipro: 232 postings
+  - Purview India Consulting And  Services  Llp: 91 postings
+  - IDESLABS PRIVATE LIMITED: 61 postings
+  - Incedo: 55 postings
+  - Krazy Mantra HR Solutions Pvt. Ltd: 54 postings
+  - Accenture: 53 postings
+  - Purview India Consulting And Services: 51 postings
+  - Kotak Mahindra Bank: 36 postings
+  - Western Digital: 36 postings
+  - IBM: 35 postings
+
+COMMON JOB TITLES IN THIS CATEGORY:
+  - Technical Lead - L1
+  - Solution Architect
+  - Technical Lead
+  - Solution Architect OBRM
+  - Data Solution Architect
+  - Solution Architect - L1
+  - Tech Lead
+  - Engineering Manager
+  - Executive Assistant To Managing Director
+  - Technical Architect
+  - Executive Assistant To Director
+  - Relationship Manager-AGRI-FIN-TRACTOR LOANS AND RETAIL(TFE)
